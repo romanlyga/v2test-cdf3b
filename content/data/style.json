@@ -43,7 +43,7 @@
         "borderRadius": 0,
         "borderStyle": "solid",
         "horizontalPadding": 4,
-        "verticalPadding": 11,
+        "verticalPadding": 5,
         "shadow": "none"
     }
 }
