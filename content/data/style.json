@@ -37,7 +37,7 @@
         "shadow": "0 25px 50px -12px rgba(0, 0, 0, 0.25)"
     },
     "buttonSecondary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": 0,
